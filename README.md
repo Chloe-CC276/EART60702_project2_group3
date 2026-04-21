@@ -22,11 +22,35 @@ A core objective is to understand how temperature variances influence the arriva
 
 ```text
 ├── AutoML/                # Automated ML experiments (003-008)
-├── DeepLearning/          # DL Models (MLP, LSTM, TFT for model election)
+  ├──autoML_003.ipynb
+  ├──autoML_004.ipynb
+  ├──autoML_005.ipynb
+  ├──autoML_006.ipynb
+  ├──autoML_007.ipynb
+  ├──autoML_008.ipynb
+├── DeepLearning/          # DL Models with different splitting methods (MLP, LSTM, TFT for model election)
+  ├──deep_learning_time_series_model_selection.ipynb
+  ├──deep_learning_time_window_model_selection.ipynb
 ├── Preprocess/         # Preprocessing & Pre-processed Manchester climate CSV files
+  ├──Data_manchester.zip
+  ├──Kedi_Li_environment.yml
+  ├──Processed_data_manchester.zip
+  ├──Project_2_preprocess.ipynb
+  ├──readme.txt
 ├── machine learning model selection/             # Experiment for machine learning model selection
+  ├──005_split_model_compare.ipynb
+  ├──005_windows_model_compare.ipynb
+  ├──007_split_model_compare.ipynb
+  ├──007_windows_model_compare.ipynb
 ├── prediction result      # Predict and result
+  ├──dataset_03_predictions.csv
+  ├──dataset_04_predictions.csv
+  ├──dataset_06_predictions.csv
+  ├──dataset_08_predictions.csv
+  ├──predictions.csv
 ├── visualization          # Visualization of result, used in presentation
+  ├──swift_arrical.ipynb
+  ├──visualization.ipynb
 ├── All_datasets_EDA       # EDA for all datasets
 ├── Extended_visualization # Visualization
 ├── raw_data_distribution  # Data distribution for un-preprocessing data
