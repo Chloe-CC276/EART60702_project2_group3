@@ -76,6 +76,6 @@ In terms of deep learning, MLP (Multi-Layer Perceptron) achieved the best perfor
 ## 7\. Contributors
 
   * **Group 3** - EART60702 Project 2
-  * Members: Emmaunel Julius, Kedi Li, Jing Chen, Yuqing Liu
+  * Members: Emmaunel Julius, Jing Chen, Kedi Li, Yuqing Liu
 
 -----
