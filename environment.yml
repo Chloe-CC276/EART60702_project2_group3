@@ -1,0 +1,12 @@
+name: climate_project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - netcdf4
+  - numpy
+  - pandas
+  - matplotlib
+  - dask
+  - jupyter
