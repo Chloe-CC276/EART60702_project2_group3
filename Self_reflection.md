@@ -20,7 +20,7 @@ Generally, Project 2 has been very insightful and eye-opening to me as a new dat
 
 I admit that becoming a data scientist is a long journey, as data science is not only a broad discipline but also an ever-evolving and rapidly expanding field. However, I believe that this course, EART60702, has established a solid foundation that enables me to handle basic to moderately complex tasks. It has also set the stage for continued growth and advancement in earth and environmental sciences.
 
-**##Yuqing Liu**
+## Yuqing Liu
 In this project, I gained valuable experience in both teamwork and individual practice. I contributed significantly across multiple core stages, especially in data splitting, model selection, and feature prediction.
 
 I learned from the insufficient experience of the dispersion of the theme of the last project. At the beginning of getting the data set, I consulted the literature with Jing on the point of predicting the target variables, and confirmed the specific research topic background of the swifts migration. 
